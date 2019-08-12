@@ -3,7 +3,7 @@
 
 def parrot(sound = "Squawk!")
   
-  p sound
+  puts  sound
   
 end
 
